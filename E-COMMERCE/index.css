@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color:burlywood;
+    padding:10px;
+    color:whitesmoke
+}
+
+.right-links{
+    display:flex;
+    justify-content:space-between;
+    gap:10px;
+    align-items:center
+
+}
+button{
+    background-color:goldenrod;
+    color:whitesmoke;
+    border: 1px;
+    border-radius:25px;
+    padding:5px
+}
